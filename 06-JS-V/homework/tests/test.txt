@@ -1,0 +1,4 @@
+Prototype
+cada clase tiene una propiedad. Las clases establecen metodos y permiten el acceso a cada objeto mediento ellos, esas son las propiedades.
+Constructor de clases
+sirve para crear o incializar un objeto creado a partir de una clase.
