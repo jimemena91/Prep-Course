@@ -1,0 +1,8 @@
+`for`
+Crea un bucle que consiste en tres expresiones opcionales, encerradas en paréntesis y separadas por puntos y comas, seguidas de una sentencia ejecutada en un bucle.
+`&&`
+Es un operador logico que significa "Y". evalua a dos o mas expresiones y devolvera verdadero solo si todas las condiciones lo son. Si aunque sea una de ellas no lo es, nos devolvera false.
+ `||`
+ Es otro operador logico que significa "o". Este evalua si una condicion o la otra es verdadera. Nos va a devolver true si aunque sea una de las expresiones lo es.
+ `!`
+ Otro de los operadores logicos y este significa "NO". Es una negacion. Nos va a retornar lo opuesto a lo que le pasemos, ya que lo que en realidad hace es negarlo.
