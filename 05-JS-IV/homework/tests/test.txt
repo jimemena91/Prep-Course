@@ -1,0 +1,12 @@
+Objetos
+    todo en javascript es un objeto. En ellos guardamos informacion. Los guardamos entre {}.
+Propiedades
+    son propiedades del objeto, que se puede explicar como que ellas definen las caracteristicas del mismo. Son como variables, pero unidad al objeto.
+Métodos
+    los valores de los objetos se establecen con funciones. Y las funciones guardadas en objetos se denominan METODOS.
+Bucle `for…in`
+    nos devuelve el índice dentro de un array. Por ejemplo: si tenemos hola, nos va a devolver 0, 1, 2.
+Notación de puntos vs notación de corchetes
+    son dos formas de acceder a las propiedades. Los puntos requieren que los siguientes operandos sean identificadores validos, es decir, nombres de variables validos.
+
+ Lo que requieren los corchetes es una cadena, no necesariamente un nombre de variable valido. Por ejemplo, 4p es un nombre de variable valido ya que comienza con un numero, pero puede usarse como un nombre de atributo de objeto (siempre que sea una cadena)
