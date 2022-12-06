@@ -1,0 +1,2 @@
+Arrays
+los arrays nos permiten almacenar varios elementos, distintos tipos de datos,dentro de un solo nombre de una variable
